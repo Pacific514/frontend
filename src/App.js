@@ -40,7 +40,7 @@ function App() {
       hero: {
         title: "Mécanique mobile",
         subtitle: "À Votre Emplacement",
-        description: "Service automobile expert livré à votre porte à Montréal, Laval et Rive Sud. Support d'urgence 24/7 avec garantie de 3 mois/5000km.",
+        description: "Service automobile expert livré à votre porte à Montréal, Laval et Rive Sud. Support d'urgence 24/7 avec garantie.",
         bookService: "Réserver Maintenant",
         emergency: "Urgence: (514) 555-1234",
         stats: {
