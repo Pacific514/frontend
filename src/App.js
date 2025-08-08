@@ -770,12 +770,12 @@ function App() {
               {
                 key: 'tireServices',
                 icon: "🔧",
-                image: ""
+                image: "tire.jpg"
               },
               {
                 key: 'oilChange',
                 icon: "🛢️",
-                image: "https://www.pexels.com/photo/man-in-black-jacket-and-black-pants-sitting-near-silver-vehicle-3807386/"
+                image: ""
               },
               {
                 key: 'brakeService',
