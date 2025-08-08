@@ -523,7 +523,7 @@ function App() {
 
   // Pricing data
   const pricingData = {
-    'oil-change': { base: 89, emergency: 129 },
+    'oil-change': { base: 99, emergency: 129 },
     'tire-replacement': { base: 149, emergency: 199 },
     'brake-service': { base: 199, emergency: 269 },
     'battery-replacement': { base: 159, emergency: 209 },
@@ -775,7 +775,7 @@ function App() {
               {
                 key: 'oilChange',
                 icon: "🛢️",
-                image: ""
+                image: "https://www.pexels.com/photo/man-in-black-jacket-and-black-pants-sitting-near-silver-vehicle-3807386/"
               },
               {
                 key: 'brakeService',
