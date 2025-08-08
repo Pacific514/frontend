@@ -770,32 +770,32 @@ function App() {
               {
                 key: 'tireServices',
                 icon: "🔧",
-                image: "https://images.unsplash.com/photo-1559132837-f5007d4fb2fd"
+                image: ""
               },
               {
                 key: 'oilChange',
                 icon: "🛢️",
-                image: "https://images.pexels.com/photos/5994458/pexels-photo-5994458.jpeg"
+                image: ""
               },
               {
                 key: 'brakeService',
                 icon: "🛑",
-                image: "https://images.pexels.com/photos/5994639/pexels-photo-5994639.jpeg"
+                image: ""
               },
               {
                 key: 'batteryService',
                 icon: "🔋",
-                image: "https://images.unsplash.com/photo-1659353741374-81bea628bf75"
+                image: ""
               },
               {
                 key: 'diagnostics',
                 icon: "💻",
-                image: "https://images.pexels.com/photos/7564223/pexels-photo-7564223.jpeg"
+                image: ""
               },
               {
                 key: 'tuneUp',
                 icon: "⚙️",
-                image: "https://images.unsplash.com/photo-1635155711443-ff00db483a5f"
+                image: ""
               }
             ].map((service, index) => (
               <div key={index} className="bg-black/40 backdrop-blur-lg rounded-xl p-6 border border-red-500/20 hover:border-red-500/50 transition-all group hover:transform hover:scale-105">
