@@ -704,7 +704,6 @@ function App() {
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
               {t.hero.title}<br />
               <span className="text-red-500">{language === 'fr' ? 'Mécanique' : 'Mobile'}</span><br />
-              <span className="text-blue-400">{t.hero.subtitle}</span>
             </h1>
             
             <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
