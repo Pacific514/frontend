@@ -44,7 +44,7 @@ function App() {
         bookService: "Réserver Maintenant",
         emergency: "Urgence: (514) 555-1234",
         stats: {
-          emergency: "24/7",
+          emergency: "7/7",
           emergencyLabel: "Service d'Urgence",
           warranty: "3 Mois",
           warrantyLabel: "Garantie",
@@ -113,7 +113,7 @@ function App() {
         },
         emergency: {
           title: "Service d'Urgence",
-          description: "Disponible 24/7 dans toutes les zones de couverture",
+          description: "Disponible 7/7 dans toutes les zones de couverture",
           callNow: "Appeler Maintenant: (514) 555-1234"
         },
         responseLabel: "Réponse:"
@@ -252,7 +252,7 @@ function App() {
           },
           {
             question: "Que faire si je dois reporter mon rendez-vous?",
-            answer: "Vous pouvez reporter jusqu'à 2 heures avant votre rendez-vous sans frais. Les situations d'urgence sont toujours accommodées."
+            answer: "Vous pouvez reporter jusqu'à 24 heures avant votre rendez-vous sans frais. Les situations d'urgence sont toujours accommodées."
           }
         ]
       },
