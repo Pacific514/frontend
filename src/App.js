@@ -746,9 +746,9 @@ function App() {
         {/* Hero Image */}
         <div className="absolute right-0 top-1/2 transform -translate-y-1/2 opacity-20 md:opacity-40">
           <img 
-            src="https://images.unsplash.com/photo-1659353741240-f64b1f1ff081" 
+            src="https://www.pexels.com/photo/man-fixing-vehicle-engine-2244746" 
             alt="Professional Mobile Mechanic"
-            className="w-96 h-96 object-cover rounded-lg"
+            className="object-cover rounded-lg"
           />
         </div>
       </section>
